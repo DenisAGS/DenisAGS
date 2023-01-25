@@ -1,7 +1,7 @@
 
 # 💻 Tech Stack:
 
-<h3 align="center">Estudiante de Ingeniería de software</h3>
+<h3 align="center">Estudiante en Ingeniería de software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denisags&label=Profile%20views&color=22ddd9&style=flat" alt="denisags" /> </p>
 
