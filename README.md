@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/DenisseSantos2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denisse santos" height="30" width="40" /></a>
-<a href="https://kaggle.com/denis santhozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="denis santhozz" height="30" width="40" /></a>
-<a href="https://fb.com/denis santhozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="denis santhozz" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/denissanthozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="denis santhozz" height="30" width="40" /></a>
+<a href="https://fb.com/denissanthozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="denis santhozz" height="30" width="40" /></a>
 <a href="https://instagram.com/santhozz_denis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santhozz_denis" height="30" width="40" /></a>
 </p>
 
